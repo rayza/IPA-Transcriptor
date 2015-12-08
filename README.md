@@ -8,6 +8,8 @@ Once it matches a part of the word, it stops checking the remaining rules, adds 
 ##Note##
 This is a work in progress.
 
+If you use some sort of console, be sure it's set to Unicode (UTF-8)!
+
 The approach is rather simplistic and therefor has its issues. E.g. defining replacement rules which are based on syllables in any form seems to be an issue.
 
 The dictionaries aren't necessarily complete and possibly not 100% correct.
@@ -19,6 +21,7 @@ The current regular expression-IPA dictionaries is based on the IPA tables provi
 Here are some of the tables:
 
 https://en.wikipedia.org/wiki/Help:IPA_for_Portuguese
+
 https://en.wikipedia.org/wiki/Help:IPA_for_Spanish
 
 https://en.wikipedia.org/wiki/Help:IPA_for_French
