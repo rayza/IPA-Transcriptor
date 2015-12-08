@@ -6,7 +6,7 @@ To achieve this, currently it provides an ordered dictionary of rules in form of
 Once it matches a part of the word, it stops checking the remaining rules, adds the partial transcription to the transcribed version of the word and jumps to checking the remaining part of the word.
 
 ##Note##
-This is a work in progres.
+This is a work in progress.
 
 The approach is rather simplistic and therefor has its issues. E.g. defining replacement rules which are based on syllables in any form seems to be an issue.
 
@@ -19,7 +19,6 @@ The current regular expression-IPA dictionaries is based on the IPA tables provi
 Here are some of the tables:
 
 https://en.wikipedia.org/wiki/Help:IPA_for_Portuguese
-
 https://en.wikipedia.org/wiki/Help:IPA_for_Spanish
 
 https://en.wikipedia.org/wiki/Help:IPA_for_French
